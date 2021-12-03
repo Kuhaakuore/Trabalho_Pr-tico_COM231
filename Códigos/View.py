@@ -10,11 +10,8 @@ class View():
 
     def Main_Menu(self):
         print("MENU")
-        print("1. Cadastrar esportes")
-        print("2. Cadastrar ligas")
-        print("3. Cadastrar times")
-        print("4. Cadastrar jogadores")
-        print("5. Sair")
+        print("1. Dar carga no banco")
+        print("2. Sair")
         option = int(input("Escolha uma das opções acima: "))
         return option
 
