@@ -1,5 +1,8 @@
-# Nome: Wesley da Silva Ribeiro
-# Matrícula: 2019006307
+# Grupo: 
+#Wesley da Silva Ribeiro(2019006307)
+#João Vitor de Faria(2019006030)
+#Daniel Henrique Ferreira Carvalho(2019005426)
+
 
 from decimal import *
 from datetime import datetime
